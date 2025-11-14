@@ -1,0 +1,4 @@
+Fläche der Staaten
+# Staat Bierkonsum Längengrad Breitengrad
+D 8692 10.0 51.3
+# Nachbarschaften

@@ -1,0 +1,14 @@
+﻿BIP der Statten in Mrd.
+# Staat Fläche Längengrad Breitengrad
+BOL 37.5 -63.58 -16.3
+PER 211.4 -75.0 -9.2
+BRA 2056 -51.9 -14.2
+PAR 29.7 -58.4 -23.4
+CHI 277.1 -73.8 -45.3
+ARG 637.6 -63.6 -38.4
+UR 56.1 -55.7 -32.5
+# Nachbarschaften
+BRA: PER BOL PAR ARG UR
+PER: BOL CHI
+BOL: CHI ARG PAR
+ARG: PAR UR CHI

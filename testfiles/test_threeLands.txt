@@ -1,0 +1,8 @@
+﻿Fläche der Staaten
+# Staat Fläche Längengrad Breitengrad
+D 3.2 10.0 51.3
+NL 2.3 5.3 52.2
+B 1.5 4.8 50.7
+# Nachbarschaften
+D: NL B
+NL: B

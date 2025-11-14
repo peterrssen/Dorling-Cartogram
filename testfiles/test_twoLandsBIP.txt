@@ -1,0 +1,6 @@
+﻿BIP der Statten in Mrd.
+# Staat Fläche Längengrad Breitengrad
+BOL 37.5 -16.3 -63.58
+PER 211.4 -9.2 -75.0
+# Nachbarschaften
+BOL: PER
