@@ -1,5 +1,5 @@
-Fläche der Staaten
-# Staat Fläche Längengrad Breitengrad
+Flï¿½che der Staaten
+# Staat Flï¿½che Lï¿½ngengrad Breitengrad
 RUS 17100 105.32 61.52
 KAZ 2725 66.92 48.02
 MNG 1566 103.85 46.86

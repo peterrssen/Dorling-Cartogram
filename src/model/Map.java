@@ -16,7 +16,7 @@ public class Map {
 	
 	
 	/***
-	 * Berechnet fue alle Staaten die Verschiebungsvektoren und verschiebt anschließend die Mittelpunkte.<br><br>
+	 * Berechnet fue alle Staaten die Verschiebungsvektoren und verschiebt anschlieï¿½end die Mittelpunkte.<br><br>
 	 * 
 	 * 1. Iteriere fuer jeden Staat durch jedes Nachbarland<br> 
 	 * 2. Bestimme den Richtungsvektor zwischen den Mittelpunkten<br>
@@ -60,7 +60,7 @@ public class Map {
 	
 	
 	/***
-	 * Eine zweite Algorithmus-Idee, welche jeweils die letzte Verschiebung in der nächsten berücksichtigt. 
+	 * Eine zweite Algorithmus-Idee, welche jeweils die letzte Verschiebung in der naechsten beruecksichtigt. 
 	 * Wurde allerdings zu Gunsten den 1. Algorithmus nicht weiter verfolgt.
 	 */
 	public void calcForces2() {
@@ -104,7 +104,7 @@ public class Map {
 	/***
 	 * Verschiebt die Mittelpunkte aller Staaten um eine uebergebene Laenge. <br> <br>
 	 * 
-	 * 1. Berechne für jeden Statt den Richtungsvektor zwischen m un dem Staat<br>
+	 * 1. Berechne fuer jeden Statt den Richtungsvektor zwischen m un dem Staat<br>
 	 * 2. Bestimme die Laenge des Richtungsvektors<br>
 	 * 3. Ist der Absand groesser als 0.1<br>
 	 * 3.1 ja! Verschiebe den Mittelpunkt der Statt<br>
@@ -155,7 +155,7 @@ public class Map {
 	
 	
 	/**
-	 * Ermittelt für einen Staat alle Nachbar-Staaten. <br><br>
+	 * Ermittelt fuer einen Staat alle Nachbar-Staaten. <br><br>
 	 * 
 	 * 1. Extrahiere aus dem uebergegbenen String die Laender-Codes des Staats und seiner Nachbar-Staaten (als String)<br>
 	 * 2. Suche in der Staaten-Liste nach dem passenden Staat.<br>

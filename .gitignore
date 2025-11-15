@@ -1,0 +1,4 @@
+out
+*.jar
+testfiles/output/*
+!testfiles/output/example_test_asienout_out.txt

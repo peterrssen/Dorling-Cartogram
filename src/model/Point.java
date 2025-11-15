@@ -47,7 +47,7 @@ public class Point {
 	/***
 	 * Addiert zwei Vektoren. <br><br>
 	 * 
-	 * 1. Erstelle einen neuen Punkte, der den addieren Vektor aus p1 und p2 enthält.  
+	 * 1. Erstelle einen neuen Punkte, der den addieren Vektor aus p1 und p2 enthaelt.  
 	 * 
 	 * @param p1 Vektor 1
 	 * @param p2 Vektor 2

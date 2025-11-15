@@ -19,7 +19,7 @@ public class IOHandler {
 	 * 
 	 * 1. Existiert ein IOHandler-Objekt? <br> 
 	 * 1.1 Nein ! erzeuge es <br> 
-	 * 2 gebe das Objekt zurück <br> 
+	 * 2 gebe das Objekt zurueck <br> 
 	 * 
 	 * @return Instance der Klasse
 	 */
